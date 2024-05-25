@@ -140,3 +140,10 @@ header nav .form i {
   right: 0;
 }
 /* End Header */
+/* Start Landing */
+.landing {
+  height: 100vh;
+  background-image: url('../images/landing.jpg');
+  background-size: cover;
+}
+/* End Landing */
