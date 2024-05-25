@@ -169,4 +169,17 @@ header nav .form i {
   display: flex;
   justify-content: flex-end;
 }
+.landing .text .content {
+  max-width: 500px;
+}
+.landing .text .content h2 {
+  font-size: 32px;
+  font-weight: normal;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+.landing .text .content p {
+  font-size: 14px;
+  line-height: 2;
+}
 /* End Landing */
