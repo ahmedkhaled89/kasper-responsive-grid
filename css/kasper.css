@@ -340,4 +340,8 @@ header nav .form i {
     display: none;
   }
 }
+.design .image img {
+  position: relative;
+  bottom: -150px;
+}
 /* End Design */
