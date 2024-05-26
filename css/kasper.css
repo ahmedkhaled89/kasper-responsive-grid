@@ -335,4 +335,9 @@ header nav .form i {
 .design .image {
   text-align: center;
 }
+@media (max-width: 767px) {
+  .design .image {
+    display: none;
+  }
+}
 /* End Design */
