@@ -81,6 +81,13 @@ ul {
   bottom: -38px;
   background: white;
 }
+.main-heading p {
+  width: 550px;
+  margin: 0 auto 100px;
+  max-width: 100%;
+  line-height: 2;
+  color: #777;
+}
 /* End Components */
 /* Start Header */
 header {
