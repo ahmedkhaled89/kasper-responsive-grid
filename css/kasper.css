@@ -326,4 +326,10 @@ header nav .form i {
   left: 0;
   background-color: rgba(0, 0, 0, 60%);
 }
+.design .image,
+.design .text {
+  position: relative;
+  z-index: 2;
+  flex: 1;
+}
 /* End Design */
