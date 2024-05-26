@@ -316,4 +316,13 @@ header nav .form i {
   display: flex;
   align-items: center;
 }
+.design::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 60%);
+}
 /* End Design */
