@@ -268,3 +268,9 @@ header nav .form i {
   border-color: var(--main-color);
 }
 /* End Landing */
+/* Start Services */
+.services {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
+/* End Services */
