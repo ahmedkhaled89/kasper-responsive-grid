@@ -375,4 +375,10 @@ header nav .form i {
   display: flex;
   justify-content: center;
 }
+.portfolio .shuffle li {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /* End Portfolio */
