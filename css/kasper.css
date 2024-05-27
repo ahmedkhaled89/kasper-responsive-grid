@@ -547,4 +547,15 @@ header nav .form i {
     flex-basis: 25%;
   }
 }
+.stats .container i {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin: 0 auto 30px;
+  font-size: 15px;
+}
 /* End Stats */
