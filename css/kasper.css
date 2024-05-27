@@ -390,5 +390,8 @@ header nav .form i {
   flex-wrap: wrap;
   margin-top: 60px;
 }
-
+.portfolio .imgs-container .box {
+  position: relative;
+  overflow: hidden;
+}
 /* End Portfolio */
