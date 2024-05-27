@@ -542,4 +542,9 @@ header nav .form i {
     flex-basis: 50%;
   }
 }
+@media (min-width: 992px) {
+  .stats .container .box {
+    flex-basis: 25%;
+  }
+}
 /* End Stats */
