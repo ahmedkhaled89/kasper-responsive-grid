@@ -381,4 +381,8 @@ header nav .form i {
   justify-content: center;
   align-items: center;
 }
+.portfolio .shuffle li.active {
+  background: var(--main-color);
+  color: white;
+}
 /* End Portfolio */
