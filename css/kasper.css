@@ -491,4 +491,10 @@ header nav .form i {
   overflow: hidden;
   text-align: center;
 }
+.about img {
+  position: relative;
+  bottom: -120px;
+  margin-top: -120px;
+  max-width: 100%;
+}
 /* End About */
