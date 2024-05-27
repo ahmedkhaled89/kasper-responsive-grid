@@ -558,4 +558,12 @@ header nav .form i {
   margin: 0 auto 30px;
   font-size: 15px;
 }
+.stats .container .number {
+  font-size: 50px;
+  font-weight: bolder;
+  margin: 0 0 20px;
+}
+.stats .container p {
+  font-size: 14px;
+}
 /* End Stats */
