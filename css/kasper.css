@@ -400,6 +400,16 @@ header nav .form i {
 .portfolio .imgs-container .box:hover img {
   transform: rotate(3deg) scale(1.1);
 }
+@media (min-width: 768px) {
+  .portfolio .imgs-container .box {
+    flex-basis: 50%;
+  }
+}
+@media (min-width: 1199px) {
+  .portfolio .imgs-container .box {
+    flex-basis: 25%;
+  }
+}
 .portfolio .imgs-container .box img {
   width: 100%;
   transition: 0.5s;
