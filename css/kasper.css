@@ -385,4 +385,10 @@ header nav .form i {
   background: var(--main-color);
   color: white;
 }
+.portfolio .imgs-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 60px;
+}
+
 /* End Portfolio */
