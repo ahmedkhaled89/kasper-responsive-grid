@@ -522,4 +522,9 @@ header nav .form i {
   left: 0;
   background-color: rgba(0, 0, 0, 70%);
 }
+.stats .container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+}
 /* End Stats */
