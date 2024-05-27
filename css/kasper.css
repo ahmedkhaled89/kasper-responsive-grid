@@ -394,6 +394,12 @@ header nav .form i {
   position: relative;
   overflow: hidden;
 }
+.portfolio .imgs-container .box:hover .caption {
+  bottom: 0px;
+}
+.portfolio .imgs-container .box:hover img {
+  transform: rotate(3deg) scale(1.1);
+}
 .portfolio .imgs-container .box img {
   width: 100%;
   transition: 0.5s;
