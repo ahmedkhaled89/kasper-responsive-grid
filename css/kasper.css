@@ -718,4 +718,13 @@ header nav .form i {
   padding-bottom: var(--section-padding);
   text-align: center;
 }
+.pricing .plans {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 30px;
+  margin-bottom: 50px;
+}
+.pricing .plans .plan {
+  background-color: #fcfcfc;
+}
 /* End Pricing */
