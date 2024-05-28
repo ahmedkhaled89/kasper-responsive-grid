@@ -845,4 +845,13 @@ header nav .form i {
   width: calc(100% - 130px);
   color: white;
 }
+.subscribe form input[type='submit'] {
+  width: 130px;
+  background-color: var(--main-color);
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid white;
+  border-left: none;
+  text-transform: uppercase;
+}
 /* End Subscribe */
