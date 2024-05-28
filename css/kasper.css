@@ -702,4 +702,13 @@ header nav .form i {
 .quote .container {
   position: relative;
 }
+.quote q {
+  font-size: 30px;
+  margin-bottom: 20px;
+  display: block;
+}
+.quote .text p {
+  margin-top: 30px;
+  font-size: initial;
+}
 /* End Quote */
