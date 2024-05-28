@@ -822,4 +822,10 @@ header nav .form i {
     flex-direction: column;
   }
 }
+.subscribe form {
+  display: flex;
+  position: relative;
+  width: 500px;
+  max-width: 100%;
+}
 /* End Subscribe */
