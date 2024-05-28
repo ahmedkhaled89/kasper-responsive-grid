@@ -828,4 +828,12 @@ header nav .form i {
   width: 500px;
   max-width: 100%;
 }
+.subscribe form i {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 25px;
+  color: white;
+  border: none;
+}
 /* End Subscribe */
